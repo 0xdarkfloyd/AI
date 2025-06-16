@@ -1,4 +1,4 @@
-# AI: Architecure, Attack Surface, Attack Vectors, and Mitigations.
+# AI: Architecture, Attack Surface, Attack Vectors, and Mitigations.
 
 | **Layer/Component**         | **Attack Surface**                            | **Potential Attack Vectors**                                                                                              | **Mitigations**                                                                                   |
 |-----------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
